@@ -1,6 +1,7 @@
 # is-binary
 
 Detects if a file is binary based on its content.
+[![build status](https://secure.travis-ci.org/alessioalex/is-binary.png)](http://travis-ci.org/alessioalex/is-binary)
 
 ## Usage
 
